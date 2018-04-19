@@ -1,0 +1,35 @@
+{
+  "name": "rbxl-proxy-trello",
+  "version": "1.0.0",
+  "description": "A basic server for proxying requests from Roblox game servers to Trello's API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node sever.js"
+  },
+  "engines": {
+    "node": "8.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClockworkSquirrel/rbxl-proxy-trello.git"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "proxy",
+    "roblox",
+    "trello"
+  ],
+  "author": "cliquesquirrel",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ClockworkSquirrel/rbxl-proxy-trello/issues"
+  },
+  "homepage": "https://github.com/ClockworkSquirrel/rbxl-proxy-trello#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}

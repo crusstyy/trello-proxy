@@ -1,0 +1,19 @@
+{
+  "name": "rbxl-proxy-trello",
+  "description": "A basic server for proxying requests from Roblox game servers to Trello's API",
+  "repository": "https://github.com/ClockworkSquirrel/rbxl-proxy-trello",
+  "keywords": [
+    "node",
+    "server",
+    "proxy",
+    "roblox",
+    "trello"
+  ],
+  "env": {
+    "ACCESS_TOKEN": {
+      "description": "ACCESS_TOKEN is used to verify requests to the server. This prevents unauthorised requests from being processed.",
+      "required": true,
+      "generator": "secret"
+    }
+  }
+}

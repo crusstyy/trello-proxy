@@ -1,0 +1,6 @@
+{
+  "TOKEN-HEADER": "x-auth-token",
+  "OVERRIDE-HEADER": "x-http-method-override",
+  "FALLBACK-TOKEN": "5644dac3cfc58c74c8bc337bc45ccc4fde676ddf",
+  "BASE-URL": "https://api.trello.com"
+}
