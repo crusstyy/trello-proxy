@@ -64,4 +64,5 @@ end
 
 > You can retrieve your Trello app token directly from [this page](https://trello.com/app-key). You can also generate an auth token from here.
 
-<center>`</>` with :heart: by [ClockworkSquirrel](https://roblox.com/users/3659905/profile)</center>
+-----
+`</>` with `<3` by [ClockworkSquirrel](https://roblox.com/users/3659905/profile)
